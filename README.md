@@ -17,7 +17,7 @@ A web application for exchanging TON and USDT, with user registration, internal 
 - MongoDB
 - npm or yarn
 
-## Setup
+## Local Development Setup
 
 1. Clone the repository
 2. Install backend dependencies:
@@ -37,7 +37,7 @@ A web application for exchanging TON and USDT, with user registration, internal 
    JWT_SECRET=your-secret-key
    ```
 
-## Running the Application
+## Running the Application Locally
 
 1. Start the backend server:
    ```bash
@@ -51,6 +51,10 @@ A web application for exchanging TON and USDT, with user registration, internal 
    ```
 
 3. Open your browser and navigate to `http://localhost:3000`
+
+## Deployment
+
+For deployment instructions, please refer to [DEPLOY.md](DEPLOY.md).
 
 ## API Endpoints
 
